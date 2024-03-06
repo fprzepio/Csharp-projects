@@ -17,5 +17,5 @@
 <h4>Each program directory contains a README.md file with detailed instructions on how to compile, run, and use the program. Follow the instructions provided in the README.md file of the respective program to utilize its functionality effectively.</h4>
 
 <h2>License</h2>
-<h4>This repository is licensed under the MIT License. See the LICENSE file for more details.
+<h4>This repository is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.
 </h4>
