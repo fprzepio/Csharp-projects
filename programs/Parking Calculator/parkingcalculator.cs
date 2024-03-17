@@ -20,6 +20,6 @@ public class ParkingCalculator
         Console.WriteLine("Input how many hours you've parked: ");
         int hours = int.Parse(Console.ReadLine());
         double result = CalculateParkingFee(hours);
-        Console.WriteLine($"Your fee is : {result}");
+        Console.WriteLine($"Your fee is : {result}$");
     }
 }
