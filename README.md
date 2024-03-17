@@ -10,6 +10,7 @@
   <li>Highest & lowest temp</li>
   <li>Max & Sum of elements</li>
   <li>Parking calculator</li>
+  <li>Age calculator</li>
 </ul>
 
 <h2>How to Use</h2>
